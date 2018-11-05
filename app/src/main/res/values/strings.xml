@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyDialog</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="character_dialog_title">話し方を選択して下さい</string>
+    <string-array name="character_array">
+        <item>デフォルト</item>
+        <item>愛媛県今治市弁</item>
+        <item>愛媛県四国中央市弁</item>
+        <item>愛媛県松山市弁</item>
+        <item>関西弁</item>
+        <item>博多弁</item>
+        <item>福島弁</item>
+        <item>三重弁</item>
+        <item>舞妓風</item>
+        <item>お嬢様風</item>
+        <item>武士風</item>
+        <item>ギャル風</item>
+        <item>ぶりっ子風</item>
+        <item>赤ちゃん風</item>
+    </string-array>
+</resources>
