@@ -8,6 +8,9 @@ NTT docomoの[自然対話API](https://dev.smt.docomo.ne.jp/?p=docs.api.page&api
 本アプリでは以下のことができます。
 - AIとの会話
 - 口調の変更
+- 会話履歴の保持
+- 会話履歴の削除
+- appIdの更新
 
 メッセージングアプリ風のUIで、簡単に会話を楽しむことができます。
 
